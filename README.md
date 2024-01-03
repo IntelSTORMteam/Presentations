@@ -1,5 +1,5 @@
 # Presentations
-Presentations made by team members over the years.
+Presentations made by previous and current STORM team members over the years.
 
 Please note this is an Intel Corp repository providing an overview of research publications in the area of Security Research created by Intel and external contributors and partners.
 
